@@ -1,3 +1,6 @@
+# Script to Analyze Whatsapp Messages
+## You need to export the chat from Whatsapp, and clean the data in Excel, then save as .csv
+
 rm(list = ls())
 
 library(ggplot2)
